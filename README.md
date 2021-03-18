@@ -1,5 +1,5 @@
 <h1 align="center">
- <img align="center" src="logo.svg" width="100"">
+ <img align="center" src="logoReadme.svg" width="400"">
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 O projeto consiste em uma aplicação web que simula o funcionamento do carrinho de compras de um e-commerce, permitindo o usuário adicionar itens, excluir, aumentar ou decrementar a quantidade de determinado produto e vizualizar a listagem completa de produtos no carrinho e preço total. Esse projeto foi desenvolvido para completar o [Desafio 01 - Módulo 2](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12) da trilha de React JS do bootcamp Ignite da Rocketseat.
 
 <p align="center">
-  <img src="testVideo.mp4" width="500px">
+  <img src="testVideo.gif" width="500px">
 </p>
 
 <h2 id="tech" >Tecnologias</h2>
