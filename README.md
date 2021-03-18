@@ -11,10 +11,10 @@
 
 <h2 id="project" >ROCKETSHOES</h2>
 
-O projeto consiste em uma aplicação web que simula o funcionamento do carrinho de compras de um e-commerce, permitindo o usuário adicionar itens, excluir, aumentar ou decrementar a quantidade de determinado produto e vizualizar a listagem completa de produtos no carrinho e preço total. Esse projeto foi desenvolvido para completar o [Desafio 01 - Módulo 2](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12) da trilha de React JS do bootcamp Ignite da Rocketseat.
+O projeto consiste em uma aplicação web que simula o funcionamento do carrinho de compras de um e-commerce, permitindo o usuário adicionar itens, excluir, aumentar ou decrementar a quantidade de determinado produto e vizualizar a listagem completa de produtos no carrinho e preço total, ao adicionar produtos acima do estoque mensagens de erro tratatas também são mostradas para o usuário. Esse projeto foi desenvolvido para completar o [Desafio 01 - Módulo 2](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12) da trilha de React JS do bootcamp Ignite da Rocketseat.
 
 <p align="center">
-  <img src="testVideo.gif" width="500px">
+  <img src="exampleGif.gif" width="500px">
 </p>
 
 <h2 id="tech" >Tecnologias</h2>
@@ -22,6 +22,8 @@ O projeto consiste em uma aplicação web que simula o funcionamento do carrinho
 - React JS
 
 - TypeScript
+
+- React Toastify
 
 <h2 id="clone" >Clone</h2>
 
